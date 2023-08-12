@@ -1,4 +1,4 @@
-# ML_MaterialProperties
+<!-- # ML_MaterialProperties
 a classification problem about material properties.
 
 
@@ -53,4 +53,13 @@ Midterm Project Competition
  
 
 過濾掉一些離群值,或許預測準度會上升
+ -->
 
+<img src="./images/Midterm_N96094196_page-0002.jpg" />
+<img src="./images/Midterm_N96094196_page-0003.jpg" />
+<img src="./images/Midterm_N96094196_page-0004.jpg" />
+<img src="./images/Midterm_N96094196_page-0005.jpg" />
+<img src="./images/Midterm_N96094196_page-0006.jpg" />
+<img src="./images/Midterm_N96094196_page-0007.jpg" />
+<img src="./images/Midterm_N96094196_page-0008.jpg" />
+<img src="./images/Midterm_N96094196_page-0009.jpg" />
